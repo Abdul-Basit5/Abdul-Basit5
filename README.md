@@ -28,7 +28,6 @@
         <p>💼 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/basit-professional" target="_blank">www.linkedin.com/in/basit-professional</a></p>
         <p>📧 <strong>Email:</strong> <a href="mailto: abdulbasit2231926@gmail.com"> abdulbasit2231926@gmail.com</a></p>
         <hr>
-        
         <p>Thank you for stopping by! I’m excited to collaborate and share ideas. Feel free to explore my repositories and projects!</p>
 
 

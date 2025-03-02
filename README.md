@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate learner of Machine Learning and Data Analytics</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-basit5&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-basit5" /> </p>
+  <h2>👋 Welcome to My GitHub Profile!</h2>
+       <p style="max-width: 60%; font-size: 18px;">
+        I’m an aspiring <strong>Artificial Intelligence</strong> enthusiast currently pursuing a 
+        <em>Bachelor's degree in Artificial Intelligence (BSAI)</em>. My passion lies in uncovering insights from data and 
+        building intelligent systems that make a real-world impact.
+    </p>
+            
+   <hr>
+   <h2>🌟 About Me</h2>
+        <p>🎓 <strong>Education:</strong> Bachelor of Science in Artificial Intelligence (BSAI)</p>
+        <p>🤖 <strong>Interests:</strong> Machine Learning, Data Analysis, and Artificial Neural Network</p>
+    </div>
+       <hr>
+  <h2>🛠 Programming Skills</h2>
+   <p>💻 <strong>Languages:</strong> Python, C++, HTML/CSS</p>
+    <p>📚 <strong>Libraries & Frameworks:</strong> NumPy, Pandas, Matplotlib, scikit-learn</p>
+    <p>🛠 <strong>Tools:</strong> Jupyter Notebook, Visual Studio Code (VS Code)</p>
+       <hr>
+     <h2>🚀 Skills</h2>
+        <p>🤖 <strong>Machine Learning:</strong> Experienced in building and training predictive models using Python.</p>
+        <p>🎮 <strong>Game Development:</strong> Created a <em>space shooter game</em> using Python and C++ as part of an academic project.</p>
+        <p>📊 <strong>Data Preprocessing:</strong> Proficient in cleaning, transforming, and preparing data to enhance model accuracy.</p>
+        <p>📈 <strong>Visualization:</strong> Skilled in presenting insights through clear and impactful data visualizations using Matplotlib and Pandas.</p>
+           <hr>
+      <h2>📫 Get in Touch</h2>
+        <p>Let's connect!</p>
+        <p>💼 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/basit-professional" target="_blank">www.linkedin.com/in/basit-professional</a></p>
+        <p>📧 <strong>Email:</strong> <a href="mailto: abdulbasit2231926@gmail.com"> abdulbasit2231926@gmail.com</a></p>
+        <hr>
+        
+        <p>Thank you for stopping by! I’m excited to collaborate and share ideas. Feel free to explore my repositories and projects!</p>
 
-- 📫 How to reach me **abdulbasit2231926@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdul basit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul basit" height="30" width="40" /></a>
-<a href="https://instagram.com/_im_basitali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_im_basitali" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit5&show_icons=true&locale=en&layout=compact" alt="abdul-basit5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-basit5&show_icons=true&locale=en" alt="abdul-basit5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-basit5&" alt="abdul-basit5" /></p>
 
 
 

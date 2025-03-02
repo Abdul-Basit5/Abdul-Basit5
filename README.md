@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-  <h2>👋 Welcome to My GitHub Profile!</h2>
+  <h2>Welcome to My GitHub Profile!</h2>
        <p style="max-width: 60%; font-size: 18px;">
         I’m an aspiring <strong>Artificial Intelligence</strong> enthusiast currently pursuing a 
         <em>Bachelor's degree in Artificial Intelligence (BSAI)</em>. My passion lies in uncovering insights from data and 
